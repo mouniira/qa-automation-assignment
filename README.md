@@ -5,7 +5,7 @@
 
 ## The tools and technologies used for the realization of this project are:
 
-  - WDIO 
+  - WDIO: WebdriverIO is one of the top JavaScript test automation frameworks 
   - npm
   - Node.js
   - IDE : Visual Sudio Code
