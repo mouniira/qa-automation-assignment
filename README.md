@@ -19,5 +19,5 @@
 - Ouafi Mounira (ouafi.mounira@gmail.com) - Backend PHP Developer | Web Developer.
  
 ## How to run:
-  npm install
-  npx wdio wdio.conf.js
+  - npm install
+  - npx wdio wdio.conf.js
