@@ -1,11 +1,11 @@
 # qa-automation-assignment
 
 Ce projet consiste en la réalisation de deux tests technique 'UI Automation' et 'API Automation' de la CGI.
-------This project consists in the realization of two technical tests 'UI Automation' and 'API Automation' of the CGI.
+This project consists in the realization of two technical tests 'UI Automation' and 'API Automation' of the CGI.
 
 
 ## Les outils et technologies utilisées pour la réalisation de ce projet sont:
-## ------The tools and technologies used for the realization of this project are:
+## The tools and technologies used for the realization of this project are:
 
   - WDIO 
   - npm
@@ -18,12 +18,12 @@ Ce projet consiste en la réalisation de deux tests technique 'UI Automation' et
 
 
 ## Contributeurs:
-## ------Contributors:
+## Contributors:
 
 - Ouafi Mounira (ouafi.mounira@gmail.com) - Backend PHP Developer | Web Developer.
  
  
 ## Comment exécuter:
-## ------How to run:
+## How to run:
   npm install
   npx wdio wdio.conf.js
